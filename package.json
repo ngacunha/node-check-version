@@ -1,0 +1,20 @@
+{
+  "name": "node-check-version",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngacunha/node-check-version.git"
+  },
+  "keywords": [],
+  "author": "Nelson Cunha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngacunha/node-check-version/issues"
+  },
+  "homepage": "https://github.com/ngacunha/node-check-version#readme"
+}
