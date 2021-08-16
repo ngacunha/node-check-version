@@ -13,7 +13,7 @@ npm install node-check-version
 
 ### yarn:
 ```bash
-npm install node-check-version
+yarn add node-check-version
 ```
 
 ### Create nodeVersion.json file in the project root:
